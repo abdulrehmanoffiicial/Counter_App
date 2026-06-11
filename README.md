@@ -1,2 +1,2 @@
-# Counter_App
+# counter_app
 for testing
